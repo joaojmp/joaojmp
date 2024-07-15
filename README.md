@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Marcos</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [jimps.com.br](jimps.com.br)
 
